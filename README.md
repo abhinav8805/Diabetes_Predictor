@@ -1,1 +1,2 @@
 # Diabetes_Predictor
+This project is a Diabetes Risk Predictor that uses machine learning to classify whether an individual is at risk of diabetes based on various health parameters. It is built using Python libraries such as Scikit-learn, Pandas, and NumPy, and developed in Google Colab. The model is trained on structured health data and applies logistic regression for binary classification. This project demonstrates how data-driven tools can assist in identifying potential health risks and support preventive healthcare using accessible, open-source technologies
